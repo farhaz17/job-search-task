@@ -1,0 +1,60 @@
+.main {
+  width: 40%;
+}
+
+.main .main-heading {
+  padding: 4px;
+  font-size: 18px;
+  background-color: #db6a28;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: center;
+}
+
+.main .custom-card {
+  position: relative;
+}
+
+.main .undo {
+  display: none;
+  height: 100px;
+  padding: 4px;
+  font-size: 16px;
+}
+
+.main .card {
+  height: 100px;
+}
+
+.main .card .title {
+  font-weight: 700;
+  font-size: 14px;
+  color: #0051ff;
+}
+
+.main .card .item-list ul {
+  margin-top: 4px;
+  -webkit-padding-start: 0px !important;
+          padding-inline-start: 0px !important;
+}
+
+.main .card .item-list ul li {
+  display: inline;
+  margin: 4px;
+  padding: 2px;
+  font-size: 12px;
+  background-color: #b8b6b6;
+}
+
+.main .card .close--btn {
+  position: absolute;
+  background: #7e7d7d;
+  color: white;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+}
+/*# sourceMappingURL=index.css.map */
